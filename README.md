@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siddhesh</h1>
 <h3 align="center">MERN Stack Enthusiast 😇</h3>
 <img align="right" alt="Coding" width="300" src="https://thumbs.dreamstime.com/b/cartoon-coder-young-man-programmer-tablet-working-desk-composition-professional-flat-male-character-186013231.jpg">
+<!-- 
+<p align="left"> <a href="https://twitter.com/siddhesh96896" target="blank"><img src="https://img.shields.io/twitter/follow/siddhesh96896?logo=twitter&style=for-the-badge" alt="siddhesh96896" /></a> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcpatil&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcpatil" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcpatil&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcpatil" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddheshcpatil" alt="siddheshcpatil" /></a> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddheshcpatil" alt="siddheshcpatil" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/siddhesh96896" target="blank"><img src="https://img.shields.io/twitter/follow/siddhesh96896?logo=twitter&style=for-the-badge" alt="siddhesh96896" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
